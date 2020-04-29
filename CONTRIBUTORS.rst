@@ -13,7 +13,4 @@ Name                        Github            Twitter
 Martha Rotter               `@martharotter`_   @martharotter
 =========================== ================= ===========
 
-*Audrey is also the creator of Cookiecutter. Audrey and
-Daniel are on the Cookiecutter core team.*
-
 .. _@martharotter: https://github.com/martharotter

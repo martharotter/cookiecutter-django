@@ -4,7 +4,7 @@
   "description": "Behold My Awesome Project!",
   "author_name": "Martha Rotter",
   "domain_name": "example.com",
-  "email": "{{ cookiecutter.author_name.lower()|replace(' ', '-') }}@example.com",
+  "email": "martharotter@gmail.com",
   "version": "0.1.0",
   "open_source_license": [
     "MIT",
@@ -16,8 +16,9 @@
   "timezone": "UTC",
   "windows": "n",
   "use_pycharm": "n",
-  "use_docker": "n",
+  "use_docker": "y",
   "postgresql_version": [
+    "12.2",
     "11.3",
     "10.8",
     "9.6",
@@ -42,6 +43,5 @@
   "use_heroku": "n",
   "use_travisci": "n",
   "keep_local_envs_in_vcs": "y",
-
-  "debug": "n"
+  "debug": "y"
 }
